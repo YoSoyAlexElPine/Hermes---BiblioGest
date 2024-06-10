@@ -1,0 +1,1 @@
+mongodb+srv://machupichu0409:XBJVI2Ya0T5Z4pA8@cluster.bbasbej.mongodb.net/

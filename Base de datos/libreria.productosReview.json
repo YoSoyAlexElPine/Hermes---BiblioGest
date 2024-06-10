@@ -1,0 +1,24 @@
+[{
+  "_id": "RF0001AA-admin",
+  "productoId": "RF0001AA",
+  "usuarioId": "admin",
+  "puntuacion": 4,
+  "review": "Me gusto mucho la parte\r\n",
+  "fechaInsercion": 1718056796
+},
+{
+  "_id": "RF0002AA-admin",
+  "productoId": "RF0002AA",
+  "usuarioId": "admin",
+  "puntuacion": 8,
+  "review": "Muy largo",
+  "fechaInsercion": 1718055669
+},
+{
+  "_id": "RF0003AA-admin",
+  "productoId": "RF0003AA",
+  "usuarioId": "admin",
+  "puntuacion": 9,
+  "review": "Me gustan los diparos",
+  "fechaInsercion": 1718056909
+}]

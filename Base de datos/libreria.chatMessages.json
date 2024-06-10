@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "666778baa153cb6f3b0fbee5"
+  },
+  "ClienteNombre": "Usuario",
+  "Usuario": "admin",
+  "Hora": 1718057146,
+  "Mensaje": "Hola usuario dime que quieres"
+},
+{
+  "_id": {
+    "$oid": "666778c6cd640ba7daf506d7"
+  },
+  "ClienteNombre": "Usuario",
+  "Usuario": "Usuario",
+  "Hora": 1718057158,
+  "Mensaje": "Quiero el señor de los anillos"
+},
+{
+  "_id": {
+    "$oid": "666778cba153cb6f3b0fbee6"
+  },
+  "ClienteNombre": "Usuario",
+  "Usuario": "admin",
+  "Hora": 1718057163,
+  "Mensaje": "para la semana que viene"
+},
+{
+  "_id": {
+    "$oid": "666778cecd640ba7daf506d8"
+  },
+  "ClienteNombre": "Usuario",
+  "Usuario": "Usuario",
+  "Hora": 1718057166,
+  "Mensaje": "ok"
+},
+{
+  "_id": {
+    "$oid": "666778d0cd640ba7daf506d9"
+  },
+  "ClienteNombre": "Usuario",
+  "Usuario": "Sistema",
+  "Hora": 1718057168,
+  "Mensaje": "El cliente ha cancelado el chat."
+},
+{
+  "_id": {
+    "$oid": "666778d7a153cb6f3b0fbee7"
+  },
+  "ClienteNombre": "Usuario",
+  "Usuario": "Sistema",
+  "Hora": 1718057175,
+  "Mensaje": "El administrador ha dejado el chat."
+}]
