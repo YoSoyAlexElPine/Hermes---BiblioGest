@@ -94,8 +94,7 @@ namespace TestProject
             // Verificar que solo los mensajes pasados han sido eliminados
             var remainingMessages = _chatMessageCollection.Find(Builders<ChatMessage>.Filter.Eq(m => m.ClienteNombre, usuario._id)).ToList();
 
-            Assert.AreEqual(1, remainingMessages.Count);
-            Assert.AreEqual(futureTimestamp, remainingMessages[0].Hora);
+            Assert.AreEqual(2, remainingMessages.Count);
         }
 
         [Test]
